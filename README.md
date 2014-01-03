@@ -1,4 +1,6 @@
-=== LastPark
+LastPark
+========
+
 iPhone app to remember location of the parked car.
 
 For cars that have Bluetooth capability (e.g for hands free calling)
