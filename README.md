@@ -10,3 +10,13 @@ lost Bluetooth connectivity with the car.
 This app uses private framework -- BluetoothManager.
 
 This app does not work as intended as it fails to get woken up from suspended state.
+
+Derived work
+============
+
+This project uses code from BeeTee (https://github.com/michaeldorner/BeeTee)
+
+License
+=======
+
+GPLv3
